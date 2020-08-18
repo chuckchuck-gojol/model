@@ -8,7 +8,7 @@ https://www.youtube.com/channel/UC0XPgTuvDU4gQIw48YLGhcw/
 
 척척고졸-위잉위잉 시현영상 구현 : https://youtu.be/d-wYPHqA2jY
 
-[TODO : model 생성]
+[TODO : model 생성 - 담당 @Jihyun22]
 
 - [x] 음성 데이터 수집 (기능1,2,3)
 - [x] 데이터 전처리 및 이상치 제거
